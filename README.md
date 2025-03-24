@@ -22,8 +22,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub  
-![Isaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=canetinha1&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=canetinha1&layout=compact&theme=tokyonight)  
+![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=canetinha1&show_icons=true&theme=midnight-purple)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=canetinha1&layout=compact&theme=midnight-purple)  
 
 ---
 
