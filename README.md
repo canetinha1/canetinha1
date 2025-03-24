@@ -34,3 +34,7 @@
 ---
 
 🛠️ Sempre buscando evoluir e criar algo novo! 🚀  
+
+<p align="center">
+  <img src="https://github.com/canetinha1/canetinha1/blob/output/github-contribution-grid-snake.svg" />
+</p>
