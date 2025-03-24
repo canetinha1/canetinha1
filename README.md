@@ -2,7 +2,7 @@
 
 💻 Estudante de Desenvolvimento de Sistemas  
 📚 Atualmente aprendendo **JavaScript**  
-⚡ Apaixonado por vôlei, xadrez e muay thai  
+⚡ Apaixonado por vôlei🏐, xadrez♟ 
 
 ---
 
