@@ -40,4 +40,5 @@
 ---
 
 🛠️ Sempre buscando evoluir e criar algo novo! 🚀  
+![snake animation](https://github.com/canetinha1>/<canetinha1>/blob/output/github-contribution-grid-snake2.svg)
 
