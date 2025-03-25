@@ -40,4 +40,4 @@
 ---
 
 🛠️ Sempre buscando evoluir e criar algo novo! 🚀  
-![snake gif](https://github.com/canetinha1/canetinha1/blob/main/.github/workflows/blank.yml)
+
