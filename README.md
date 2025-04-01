@@ -13,8 +13,8 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![Seus Status no GitHub](https://github-readme-stats.vercel.app/api?username=canetinha1&show_icons=true&theme=dracula)](https://github.com/SEUUSERNAME)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=canetinha1&layout=compact&theme=dracula)](https://github.com/SEUUSERNAME)
+[![Seus Status no GitHub](https://github-readme-stats.vercel.app/api?username=canetinha1&show_icons=true&theme=dracula)](https://github.com/canetinha1)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=canetinha1&layout=compact&theme=dracula)](https://github.com/canetinha1)
 
 ## 📫 Como me encontrar
 
