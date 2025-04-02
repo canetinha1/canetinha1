@@ -28,15 +28,6 @@
   </a>
 </div>
 
-## 🏆 Conquistas
-
-- 🚀 5 projetos concluídos no GitHub
-
-## 🔥 Projetos Destacados
-
-1. [Nome do Projeto](link) - Breve descrição
-2. [Nome do Projeto](link) - Breve descrição
-3. [Nome do Projeto](link) - Breve descrição
 
 ## ⚡ Hobbies & Interesses
 
