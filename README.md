@@ -33,10 +33,6 @@
 
 🏐 Vôlei | ♟ Xadrez | 🎮 Jogos Indie | 📚 Livros de Fantasia
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEUUSERSPOTIFY&cover_image=true&theme=novatorem" alt="Ouvindo no Spotify">
-</div>
-
 ## 📩 Contato
 
 <div>
@@ -50,7 +46,6 @@
 ## Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
 
-![Snake animation](https://github.com/canetinha1/canetinha1/blob/output/github-contribution-grid-snake.svg)
           
           
            
