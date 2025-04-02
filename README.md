@@ -4,9 +4,6 @@
 🌟 Futuro Desenvolvedor Full Stack  
 📚 Foco atual: **JavaScript** | React | Node.js  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tY3V6Y3h2bWJtN3VtZ2NqZ2Z6ZzV6Y2J6Y2J6Y2J6Y2J6Y2J6Y2J6Y2J6Yw/giphy.gif" width="300" alt="Gif de programação">
-</div>
 
 ## 🚀 Minhas Skills
 
@@ -34,8 +31,6 @@
 
 ## 🏆 Conquistas
 
-- 🥇 1º lugar na Olimpíada de Programação do CEEP (2023)
-- ✅ Certificado em JavaScript Básico pela [Alura]
 - 🚀 5 projetos concluídos no GitHub
 
 ## 🔥 Projetos Destacados
@@ -59,5 +54,5 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/seuid)
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/SEUUSERNAME/count.svg" alt="Visitas ao perfil">
+  <img src="https://profile-counter.glitch.me/canetinha1/count.svg" alt="Visitas ao perfil">
 </p>
