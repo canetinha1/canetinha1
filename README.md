@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Isaque!  
 
 🛡️ Estudante do 3º ano no CEEP - Desenvolvimento de Sistemas  
-🔐 Focado em Segurança da Informação  
-🎯 Objetivo: Pentest, OSINT, Engenharia Social e Defesa Cibernética  
+🔐 Focado em cyberysegury
 
 ## 🚀 Minhas Skills em Segurança da Informação
 
@@ -24,15 +23,6 @@
 - Engenharia Social & OSINT  
 - Hardening de sistemas Linux e Windows  
 - Criptografia aplicada  
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/canetinha1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=canetinha1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canetinha1&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
 
 ## ⚡ Hobbies & Interesses
 
