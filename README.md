@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Isaque!  
 
 🛡️ Estudante do 3º ano no CEEP - Desenvolvimento de Sistemas  
-🔐 Focado em cyberysegury
+🔐 Focado em engenharia software e cyberysegury
 
 ## 🚀 Minhas Skills em TI
 
