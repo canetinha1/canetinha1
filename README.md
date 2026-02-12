@@ -26,7 +26,7 @@
 
 ## ⚡ Hobbies & Interesses
 
-🛡️ Cibersegurança | 🕵️‍♂️ OSINT | 🔍 Pentest | ♟ Xadrez | 🏐 Vôlei
+🛡️ Cyberysegury | 🕵️‍♂️ OSINT | 🔍 Pentest | ♟ Xadrez | 🏐 Vôlei
 
 ## 📩 Contato
 
