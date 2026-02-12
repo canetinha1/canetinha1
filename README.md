@@ -3,7 +3,7 @@
 🛡️ Estudante do 3º ano no CEEP - Desenvolvimento de Sistemas  
 🔐 Focado em cyberysegury
 
-## 🚀 Minhas Skills em Segurança da Informação
+## 🚀 Minhas Skills em TI
 
 ### 🛠 Ferramentas & Técnicas
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
