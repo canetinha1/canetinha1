@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Isaque!  
 
-🛡️ Estudante do 2º ano no CEEP - Desenvolvimento de Sistemas  
+🛡️ Estudante do 3º ano no CEEP - Desenvolvimento de Sistemas  
 🔐 Focado em Segurança da Informação  
 🎯 Objetivo: Pentest, OSINT, Engenharia Social e Defesa Cibernética  
 
