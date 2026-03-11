@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Isaque!  
 
 🛡️ Estudante do 3º ano no CEEP - Desenvolvimento de Sistemas  
-🔐 Focado em engenharia software e cyberysegury
+🔐 Focado em engenharia software 
 
 ## 🚀 Minhas Skills em TI
 
@@ -22,7 +22,7 @@
 
 ## ⚡ Hobbies & Interesses
 
-🛡️ Cyberysegury | 🕵️‍♂️ OSINT | 🔍 Pentest | ♟ Xadrez | 🏐 Vôlei
+| ♟ Xadrez | 🏐 Vôlei
 
 ## 📩 Contato
 
